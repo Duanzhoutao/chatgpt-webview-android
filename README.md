@@ -1,5 +1,14 @@
 # GPT Chat Android WebView 工具
 
+<p align="center">
+  <a href="https://github.com/Duanzhoutao/chatgpt-webview-android/releases/latest/download/GPT-Chat-debug.apk">
+    <img alt="下载 APK" src="https://img.shields.io/badge/APK-%E7%AB%8B%E5%8D%B3%E4%B8%8B%E8%BD%BD-111111?style=for-the-badge&logo=android&logoColor=white">
+  </a>
+  <a href="https://github.com/Duanzhoutao/chatgpt-webview-android/releases/latest">
+    <img alt="查看 Release" src="https://img.shields.io/badge/Release-%E6%9F%A5%E7%9C%8B%E7%89%88%E6%9C%AC-10A37F?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 这是一个面向不方便下载官方软件的用户、自用优先的 Android 壳应用项目。
 
 它的作用很简单：
@@ -17,6 +26,13 @@
 仓库根目录已直接提供可安装 APK：
 
 - `GPT-Chat-debug.apk`
+
+也可以直接通过 Release 下载：
+
+- 最新 APK 下载：
+  [点击这里下载](https://github.com/Duanzhoutao/chatgpt-webview-android/releases/latest/download/GPT-Chat-debug.apk)
+- Release 页面：
+  [查看所有版本](https://github.com/Duanzhoutao/chatgpt-webview-android/releases/latest)
 
 下载项目后，把这个 APK 发到手机上即可安装使用。
 
