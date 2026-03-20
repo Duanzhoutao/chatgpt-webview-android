@@ -11,5 +11,6 @@ Thumbs.db
 /.gradle-dist/
 /.vscode/
 /*.apk
+!/GPT-Chat-debug.apk
 /*.zip
 /.gradle-8.7-bin.zip
