@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GPT Chat</string>
+    <string name="retry">Reload</string>
+    <string name="error_title_default">Unable to load ChatGPT</string>
+    <string name="error_message_default">Check your connection and try again.</string>
+    <string name="press_back_again_to_exit">Press back again to exit</string>
+    <string name="no_app_available">No app is available to open this link</string>
+    <string name="unsupported_link">This link type is not supported here</string>
+    <string name="file_picker_unavailable">No file picker is available on this device</string>
+    <string name="download_opening_in_browser">Opening download in your browser</string>
+    <string name="webview_crashed">The page crashed and is being restored</string>
+    <string name="webview_recovered">The page was restored</string>
+    <string name="popup_closed">Sign-in window was closed</string>
+    <string name="external_app_login_blocked">External app sign-in was blocked to keep you inside this app</string>
+</resources>

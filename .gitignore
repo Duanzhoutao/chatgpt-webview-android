@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+/build/
+/captures/
+.DS_Store
+Thumbs.db
+/app/build/
+/.android-sdk/
+/.gradle-dist/
+/.vscode/
+/*.apk
+/*.zip
+/.gradle-8.7-bin.zip
