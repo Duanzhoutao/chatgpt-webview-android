@@ -1,6 +1,6 @@
 # GPT Chat Android WebView 工具
 
-这是一个面向中文用户、自用优先的 Android 壳应用项目。
+这是一个面向不方便下载官方软件的用户、自用优先的 Android 壳应用项目。
 
 它的作用很简单：
 - 使用原生 Android + Kotlin + `WebView`
