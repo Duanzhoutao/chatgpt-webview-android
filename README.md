@@ -1,4 +1,4 @@
-# GPT Chat Android WebView 版
+# GPT Chat Android WebView 工具
 
 这是一个面向中文用户、自用优先的 Android 壳应用项目。
 
